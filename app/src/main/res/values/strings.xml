@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ECarxSpeedometer</string>
+    <string name="servicedescription">Service for generating data to be shown on speedometer and tachometer</string>
+</resources>
